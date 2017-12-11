@@ -1,6 +1,3 @@
-[submodule "R-Project-CPP"]
-	path = RP-CPP
-	url = https://github.com/kbpope/R-Project-CPP.git
 [submodule "RP-CPP"]
 	path = RP-CPP
 	url = https://github.com/kbpope/R-Project-CPP.git
